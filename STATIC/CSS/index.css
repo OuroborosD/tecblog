@@ -1,5 +1,8 @@
 body{
     background-color: whitesmoke;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Lexend Zetta', sans-serif;
+    font-family: 'Roboto', sans-serif;
     width: 100%;
 }  
 
@@ -57,7 +60,7 @@ main{
 .meio{
     width:920px;
    
-    margin: 0px 15%;
+    margin: 0px auto;
 }
 
 .clear{
@@ -73,6 +76,7 @@ main{
     background-color: gray;
     padding: 8px;
     font-weight: bold;
+    margin-bottom: 8px;
 }
 .direita a{
     color: #FFBF00 ;
